@@ -1,0 +1,84 @@
+/* eksternal css */
+ body {background-color: cyan;}
+
+
+ .name { background-color: darkblue;
+    padding: 50px 50px 50px 40px;
+    /* top,left,bottom,right */
+
+    margin: 20px 30px 10px 20px ;
+
+    border: 9px solid aquamarine;
+
+    width: 10%;
+    height: 20%;
+/* lebar */
+/* tinggi */
+font-size: 20px;
+
+}
+
+
+div .name {
+    background-color: azure;
+}
+
+div h4 {background-color: chartreuse;}
+
+
+div {background-color: crimson;}
+
+
+div .class{background-color: darkblue;}
+
+
+body {background: linear-gradient(to right,rgba(18,23,42, 0.5), rgba(152,47,77, 0.5));
+
+}
+
+* {
+    font-family: 'Bebas Neue', cursive;
+    
+        
+      
+    
+}
+
+table {background-color: ghostwhite;
+    margin: 10px 20px 30px 10px;
+    border-top: 9px solid maroon;
+    border-bottom: 9px solid goldenrod;
+    border-left: 9px solid maroon;
+    border-right: 9px solid goldenrod ;
+
+
+}
+ul {background-color: ghostwhite;
+    width: 30%;
+    border-bottom: 9px solid goldenrod;
+    border-top: 9px solid maroon;
+    border-right: 9px solid maroon;
+    border-left: 9px solid goldenrod;
+    margin-top: 30px;
+
+}
+li a:hover {background-color: black;
+            color: green;
+
+
+}
+
+p {color: brown;}
+ul {color: brown;}
+head {color: brown;}
+th {color: brown;}
+td {color: brown;}
+
+img {
+    padding: 5px;
+    width: 150px;
+    margin-left: 1350px;
+   
+  }
+
+  
